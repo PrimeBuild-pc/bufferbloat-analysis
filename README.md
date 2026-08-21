@@ -1,14 +1,17 @@
-# 🌐 Bufferbloat Test Comparison
-
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 📊 Analisi tecnica comparativa: LibreQoS vs Waveform
-
-**[🔗 Visualizza il Sito Live](https://PrimeBuild-pc.github.io/bufferbloat-analysis/)**
+  <img src="readme-banner.svg" alt="Bufferbloat Test Comparison — LibreQoS vs Waveform" width="100%">
+  <p><strong>Analisi tecnica comparativa: LibreQoS vs Waveform</strong></p>
+  <p>
+    <a href="https://github.com/PrimeBuild-pc/bufferbloat-analysis/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/PrimeBuild-pc/bufferbloat-analysis?style=plastic&amp;logo=git&amp;logoColor=white"></a>
+    <a href="https://github.com/PrimeBuild-pc/bufferbloat-analysis/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/PrimeBuild-pc/bufferbloat-analysis?style=plastic&amp;logo=github"></a>
+    <a href="https://github.com/PrimeBuild-pc/bufferbloat-analysis/issues"><img alt="Open issues" src="https://img.shields.io/github/issues/PrimeBuild-pc/bufferbloat-analysis?style=plastic&amp;logo=github"></a>
+  </p>
+  <p>
+    <a href="https://PrimeBuild-pc.github.io/bufferbloat-analysis/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-live-2ea44f?style=plastic&amp;logo=github"></a>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&amp;logo=html5&amp;logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&amp;logo=css3&amp;logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&amp;logo=javascript&amp;logoColor=111111">
+  </p>
 
 </div>
 
