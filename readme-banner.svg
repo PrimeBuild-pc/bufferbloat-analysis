@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Bufferbloat Test Comparison</title><desc id="desc">Technical comparison of LibreQoS and Waveform</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071a2b"/><stop offset="1" stop-color="#102a43"/></linearGradient><linearGradient id="line" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity=".45"/></filter></defs>
+  <rect width="1200" height="280" rx="30" fill="url(#bg)"/><g opacity=".12" stroke="#93c5fd"><path d="M0 56h1200M0 112h1200M0 168h1200M0 224h1200"/><path d="M120 0v280M240 0v280M360 0v280M480 0v280M600 0v280M720 0v280M840 0v280M960 0v280M1080 0v280"/></g>
+  <g transform="translate(85 70)" fill="none" stroke-linecap="round" filter="url(#shadow)"><path d="M0 92h38l18-46 28 92 30-72 25 38h56" stroke="#334155" stroke-width="18"/><path d="M0 92h38l18-46 28 92 30-72 25 38h56" stroke="url(#line)" stroke-width="7"/></g>
+  <text x="340" y="125" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="800">Bufferbloat Test Comparison</text><text x="343" y="174" fill="#a5f3fc" font-family="Segoe UI,Arial,sans-serif" font-size="25">LibreQoS vs Waveform · protocolli, metriche e risultati</text>
+</svg>
